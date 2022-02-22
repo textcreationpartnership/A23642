@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spouse of Christ coming out of affliction, leaning upon her beloved, or, A sermon preached by Mr. John Allin, the late Reverend Pastor to the Church of Christ at Dedham, at the administration of the Lords Supper, August 6, 1671 and may be useful to any Church of Christ, or true believer in a state of affliction.</title>
+            <author>Allin, John, 1596-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23642</idno>
+            <idno type="STC">Wing A1037</idno>
+            <idno type="STC">ESTC W22355</idno>
+            <idno type="EEBO-CITATION">12854989</idno>
+            <idno type="OCLC">ocm 12854989</idno>
+            <idno type="VID">94610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 705:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spouse of Christ coming out of affliction, leaning upon her beloved, or, A sermon preached by Mr. John Allin, the late Reverend Pastor to the Church of Christ at Dedham, at the administration of the Lords Supper, August 6, 1671 and may be useful to any Church of Christ, or true believer in a state of affliction.</title>
+                  <author>Allin, John, 1596-1671.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green, and are to be sold by John Tappin of Boston,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lord Jesus His legacie of peace ... Cambridge, 1672, has special t.p.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Song of Solomon VIII, 5 --  Sermons.</term>
+               <term>Bible. --  N.T. --  John XIV, 27 --  Sermons.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:94610:1"/>
+                  <p>THE <hi>SPO<g ref="char:V">Ʋ</g>SE OF CHRIST Coming out of affliction, leaning upon Her</hi> BELOVED: <hi>OR, A</hi> SERMON PREACHED BY <hi>Mr. JOHN ALLIN.</hi> The late Reverend Paſtor to the Church of Chriſt at <hi>Dedham, At the Adminiſtration of the Lords Supper.</hi> Auguſt 6. 1671.</p>
+                  <p>And may be uſeful to any Church of Chriſt, or true Believer in a ſtate of affliction.</p>
+                  <q>
+                     <bibl>
+                        <hi>1 Sam. 30.6.</hi>
+                     </bibl> And David was greatly diſtreſſed, for the People ſpake of Stoning him, becauſe the Soul of the People vvas grie<g ref="char:EOLhyphen"/>ved, every man for his Sons, and for his Daughters, but Da<g ref="char:EOLhyphen"/>vid encouraged himſelf in the Lord his God.</q>
+                  <p>Cambridge: <hi>Printed by</hi> Samuel Green: And are to be ſold by <hi>John Tappin</hi> of <hi>Boſton.</hi> 1672.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:94610:2"/>
+                  <pb facs="tcp:94610:2"/>
+                  <head>To the Reader.</head>
+                  <opener>
+                     <salute>Courteous Reader:</salute>
+                  </opener>
+                  <p>
+                     <hi>THe Great God, whoſe all Creatures are, and in whoſe counſels all their changes, in all their Generations are formed, hath</hi> according to the good pleaſure of his own Will <hi>reſerved us to this our Generation,</hi> to an acceptable year, to a day of Salvation, <hi>and aſſigned to us this place of which vve may ſay,</hi> the lines are fallen to us in pleaſant places, we have a good<g ref="char:EOLhyphen"/>ly Heritage, <hi>even in the clear Sun-light of Goſpel truths: he hath planted</hi> (in N. E.) a Vineyard in a very fruitful Hill, <hi>which he hath fenced about with a Christian and Godly Government, and gathered out the Stones, and built a Tower in the midſt of it, and made a Wine preſs, and he did plant it with the choiceſt plants, and did ſend forth many faithful and skilful Labourers thereunto, ſo to dreſs the Vine that it might want nothing that might make it fruitful: and Oh that it could be ſaid,</hi> it brought forth no wilde Grapes: <hi>but of late times the Great Lord of the Vineyard hath called home</hi> ſo many of thoſe his Labourers, <hi>that it makes many obſervant hearts trembling to ſay,</hi> what is God about to do with this Vineyard. <hi>And amongſt others of thoſe his choice ones, he hath lately called home</hi> the Re<g ref="char:EOLhyphen"/>verend Author of theſe two enſueing Sermons. and ordered him to enter into his Maſters joy; who was a man that needs not our Teſtimony for his commendation, his Works ſhall praiſe him in the Gate: <hi>A man ſo well approved in the Churches of Chriſt, that he was known to be</hi> a faithful labourer in the Houſe of the Lord, a wiſe Builder in his Houſe, He was a burning and a ſhining Light, and we that were of his Flock a long ſea<g ref="char:EOLhyphen"/>ſon rejoyced in his light, <hi>even from the firſt gathering of the</hi> Church of Chriſt in Dedham, <hi>which was</hi> Anno. 1638. until this preſent year 1671. <hi>wherein</hi> Auguſt 26. <hi>after, about</hi> ten dayes moderate ſickneſs, he entred into reſt, in the 75. year of his age: <hi>in all which time, he was</hi> a very conſtant, faithful and diligent Steward in the Houſe of God; a man of peace and truth, we were lead forth by the ſtill waters in green Paſtures, our Table was fully furniſhed, and our Cup did flow over, and ſome<g ref="char:EOLhyphen"/>times drop upon others; ſome he did Plant, and ſome he did VVater, and ſome increaſe God did give, <hi>ſo that he in ſome meaſure, had wherein to rejoyce amongſt us.</hi>
+                  </p>
+                  <pb facs="tcp:94610:3"/>
+                  <p> But now Alas, Alas! we that were full are become empty, and even as ſheep without a Shepard, are left to beg our bread, the wayes of our little Sion mourn becauſe we want our ſolemn Feaſts, the joy of our heart is ceaſed, our dance is turned into mourning, the Crown is fallen from our head, wo unto us that we have ſinned, <hi>we cannot but ſay,</hi> Oh that it were with us as in times paſt, as in the dayes wherein God pre<g ref="char:EOLhyphen"/>ſerved us, when his Candle ſhined upon our Head, and when by his light we walked through darkneſs <hi>The memory of thoſe ſweet diſtilling Dews, that did formerly drop upon us are not yet ſo forgotten but that we deſire to recal ſome of them, and moſt eſpecially the two laſt Sermons</hi> our Dear and Reverend Paſtor <hi>did Preach amongſt us: being Texts that he came to in his ordinary courſe, and not choſen purpoſely;</hi> yet being by pro<g ref="char:EOLhyphen"/>vidence fitted as for his farewel, and for our preſent ſtate of affliction and emptineſs though then u<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>een both to himſelf and us; <hi>The conſide<g ref="char:EOLhyphen"/>ration whereof hath moved the Church here</hi> by Vote, <hi>to order the endeavour<g ref="char:EOLhyphen"/>ing of there-collecting of theſe Sermons, and the fitting them for publick uſe, and to be kept amongſt them for the Edification of themſelves and theirs; and for the better keeping alive the memory of him whom we ſo much loved and honoured, and have committed the care of effecting the ſame to ſome few of the Brethren. But Alas! we that are ſo intruſted, know our ſelves altogether below ſuch a work, and after ſome time travailing betwixt ſenſe of our own weakneſs, and deſire the work might be accompliſhed; we at length by peruſing our Paſtors own Notes found in his Study, and com<g ref="char:EOLhyphen"/>paring the Notes of ſeveral Hearers taken in publick, according to our weakneſs have Collected the enſuing lines, knovving that if it had been done by the Author himſelf th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere like to be incomparably better, yet vve have endeavoured to keep</hi> to his own Words, Matter and Method, <hi>and we know our God requires not of us according to what we have not, but ac<g ref="char:EOLhyphen"/>cording to what we have, and we hope and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g, that all ſuch as may have the peruſal of the following Lines, to paſs by ſuch our weakneſſes as they may there finde,</hi> and cover them with the Garment of love.</p>
+                  <p>
+                     <hi>We hope we have in no ſort wronged the Author, whom we ſo much loved and reverenced, but have as truely and candidly as we are able, rendred his ovvn, and preſented the truth: And ſo vve commit the vvhole to that God that is able to give a Bleſſing, and to make his strength knovvn in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi> By ſome of the Hearers of the enſuing Sermons.</p>
+                  <closer>
+                     <signed> 
+                        <list type="anagram">
+                           <item>
+                              <hi>JOHN ALLIN</hi>
+                           </item>
+                           <item>IN HONI ALL,</item>
+                           <trailer>Anagr.</trailer>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="1" facs="tcp:94610:3"/>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>Cant. 8.5. part of the Verſe.</hi>
+                        </bibl>
+                        <p>Who is this that cometh up from the Wilderneſs, leaning upon her Beloved?</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ome underſtand this of the <hi>Shulamite</hi> ſpoken of before. Others of <hi>ſome other Spouſe or Church of Chriſt,</hi> to ariſe af<g ref="char:EOLhyphen"/>ter her, according to that promiſe of the waters that run from under the Threſhold of the Temple, towards the Eaſt, leading towards <hi>Arabia, Syria</hi> and <hi>Egypt,</hi> Ezek. 47. but when we conſider what went before, and the other like places, that charge, <hi>ver.</hi> 4. ſeems to be the occaſion of this Queſtion, namely, <hi>I charge you Oh Daughters of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eruſalem that you ſtir not up, nor awake my Love until he pleaſe,</hi> which words gives occaſion of this Queſtion, paralel to this you may ſee, <hi>chap. 3.5, 6.</hi> &amp; <hi>chap. 5.8, 9.</hi> &amp; <hi>chap. 6.1. Whether is thy Beloved g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e, O thou fairest among women,</hi> &amp;c. as in thoſe places the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Jeruſalem</hi> are brought in, enquiring after Chriſt the Beloved of the Spouſe, ſo in the Text they are brought in admiring and inquiring concerning the Spouſe of Chriſt, ſaying, <hi>Who is this that comes thus up out of the vvilderneſs,</hi> &amp;c. the Queſtion is put in the Feminine Gender, as if they ſhould ſay, <hi>vvhat Woman is this?</hi> and indeed they that ſhould behold the coming of the <hi>Shulamite,</hi> viz the Return of the Jews, it will be a Queſtion worth the inquiring with Admiration, and ſaying, <hi>who is this?</hi> and hence I conceive the Queſtion is concerning that Spouſe, that gave ſuch a charge in <hi>ver. 4.</hi> unto which Chriſt gives Anſwer in the words following, <hi>I raiſed thee up under the Apple Tree,</hi> &amp;c. although ſome take that Anſwer, to be the Churches, to ſtir up Chriſt by Prayer: which ſeems not ſo ſuitable, but my purpoſe is at preſent to ſpeak only to the former part of the verſe, <hi>who is this that cometh up,</hi> &amp;c.</p>
+                  <p>For the meaning of the Words, <hi>Who is this?</hi> it argues ſomething ex<g ref="char:EOLhyphen"/>traordinary, which is matter of ſpecial obſervation and worthy of ex<g ref="char:EOLhyphen"/>equity, <hi>chap. 3.6. Who is this that cometh out of the Wilderneſs like Pilars of Sm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ak per<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>med with Mirrh,</hi> chap. 5.9. <hi>what is thy Beloved more <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>,</hi> &amp;c. chap. 6.1. <hi>whether is thy Beloved gone, O thou <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Women,</hi> &amp;c. it is one thing that ſhall be inquired into a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="2" facs="tcp:94610:4"/>the return of this Church of the Jews, <hi>whence they come:</hi>
+                  </p>
+                  <p>
+                     <hi>That cometh up out of the Wilderneſs,</hi> a Wilderneſs is a deſolate place, a Land not Ploughed nor Sowed, ſo it was to <hi>Iſrael</hi> when they came out of <hi>Egypt,</hi> then God proved them to ſee what was in their hearts, the Wilderneſs is a Land of Drought, and the ſhadow of Death, a Land of fiery Serpents and Scorpions, a terrible Wilderneſs God led his People through, as <hi>Deut. 8.</hi> what can we expect to finde in a Wilderneſs, <hi>Mat. 11.7. What went you into the VVildern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſs to ſee,</hi> a Wilderneſs is a ſtate of affliction and temptation, <hi>Mat. 4.1. then was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſus led aſide into the Wilderneſs to be temptod of the Devil,</hi> now the return of this <hi>Shula<g ref="char:EOLhyphen"/>mite</hi> to their own Land is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ophecied of, as a People brought out of the Wilderneſs of the People &amp; Nations, <hi>Ezek. 20.34, 35, 36. and I will bring you out from the people, and will gather you out of the Countries wherein ye are ſcattered with a mighty hand, &amp; with a stretched out Arm, and with fury poured out, and I will bring you into the Wilderneſs of the people, and there will I plead with you face to face, like as I pleaded with your Fathers in the VVilderneſs of the Land of Egypt, ſo will I plead with you ſaith the Lord God,</hi> He will bring them through great afflictions and temptations to diſcover the rebels and to cut them off, <hi>ver. 37.38.</hi> and the reſt ſhall be accepted, <hi>ver. 40.41.</hi> with this agreeth the Prophecy of <hi>Dan. 12.1. And at that time ſhall Michael ſtand up, the great Prince which standeth for the Children of thy people, and there ſhall be a time of trouble ſuch as never was ſince there was a Nation even to that ſame time, and at that time thy people ſhall be delivered, every one that ſhall be found written in the Book,</hi> Iſai. 65.9. <hi>And I will bring forth a ſeed out of Jacob, and out of Iudah an inheritor of my mountain, and mine Elect ſhall in<g ref="char:EOLhyphen"/>herit it,</hi> ver. 11. <hi>But ye are they that forſake the Lord, therefore I will num<g ref="char:EOLhyphen"/>ber you to the Sword:</hi> In all theſe afflictions, tryals and miſeries, where<g ref="char:EOLhyphen"/>in that people had formerly been, as in a vaſt howling Wilderneſs, and in all thoſe ſad things that ſhall befal them, ſuch as never was ſince it was a Nation, this Spouſe ſhall come up from this Wilderneſs to the admiration of ſuch as ſhall behold her, <hi>Iſai. 63.13, 14. That led them through the deep as an Horſe in the Wilderneſs, that they ſhould not ſtum<g ref="char:EOLhyphen"/>ble, as a Beaſt goeth down into the valley, the Spirit of the Lord cauſed him to reſt, ſo didſt thou lead thy People, to make thy ſelf a glorious name.</hi>
+                  </p>
+                  <p>
+                     <hi>Leaning upon her Beloved,</hi> VVhat is the excellency of this Spouſe? She is leaning upon her Beloved: The word <hi>(leaning)</hi> is derived from the Arabian tongue, from which word ſome conjecture that it ſhould
+<pb n="3" facs="tcp:94610:4"/>ſpeak of a Church from thence: it may be Tranſlated leaning, or clea<g ref="char:EOLhyphen"/>ving to, adjoyning, aſſociating her ſelf; the <hi>Greek</hi> Tranſlate it, confirm<g ref="char:EOLhyphen"/>ing or ſtrengthening her ſelf in her Beloved, any of theſe words do well expreſs her Faith in Chriſt her Beloved, being ſenſible of her di<g ref="char:EOLhyphen"/>ſtreſſes and wilderneſs temptations; ſhe dare not truſt to any thing but her Beloved, as ſaith the Apoſtle, <hi>We deſpaired in our ſelves, that we might truſt in the living God,</hi> being ſenſible of her own weakneſs, ſhe leans upon him, ſhe adjoyns and aſſociates her ſelf to him that can and will guid her through all difficulties. <hi>1 Pet. 5.10. that he will make you perfect, ſtrengthen, ſtabliſh, ſettle you,</hi> herein the Spouſe comforts her ſelf, <hi>leaning upon her Beloved.</hi> For the underſtanding the Diſcription of this her Beloved upon whom ſhe thus leans, Conſider,</p>
+                  <p n="1">1. VVho is it but Jeſus Chriſt, the Head and Husband of his Church, who is able to ſave to the uttermoſt <hi>all that come unto God by him,</hi> Heb. 7.25. who is that firm Rock of Ages, that precious Corner Stone, <hi>that whoſoever believeth on him ſhall never be confounded,</hi> 1 Pet. 3.6.</p>
+                  <p n="2">2. Her Beloved, that is he that hath infinitely and moſt freely loved his Church, <hi>Epheſ. 5.25.</hi> and given himſelf for it to purifie and cleanſe it, <hi>Rev. 1.5. <g ref="char:V">Ʋ</g>nto him that have loved us, and waſhed us from our ſins in his own blood,</hi> Gal. 2 20. VVho hath loved me, and given himſelf for me, theſe two, the alſufficiency of Chriſt, and his great and infinite love to her is ground ſufficient to lean upon him in all conditions, as the Apoſtle ſaith, <hi>I know in whom I have believed, in him that is able to preſerve vvhat<g ref="char:EOLhyphen"/>ſoever I have committed to him;</hi> In Chriſt are all things that make up a fulneſs of Faith, his Omniſcience that knows all our needs and dangers, and how and when to ſupply, and his Omnipotency whereby he is able to do it.</p>
+                  <p n="3">3. Faithfulneſs in his promiſes, he is the Amen, the true and faithful witneſs, as <hi>Sarah</hi> who believed for ſhe judged him faithful that had promiſed.</p>
+                  <p n="4">4. Compaſſion, or bowels of infinite compaſſions, his Spouſe is as <hi>the apple of his eye,</hi> therefore the Lord Jeſus muſt needs be in every re<g ref="char:EOLhyphen"/>ſpect the moſt ſuitable object of Faith, being ſo all-ſufficient, faithful, compaſſionate and loving, now then <hi>this is the beloved of the Spouſe,</hi> ſhe came leaning upon this her Beloved, whoſe firſt love did draw her heart to love him again with a moſt ardent love, as <hi>ver. 7. Many vvaters can<g ref="char:EOLhyphen"/>not quench love, neither can the floods drovvn it,</hi> Pſal. 119.132. <hi>Look thou vpon me and be merciful unto me, as thou uſeſt to do to them that love
+<pb n="4" facs="tcp:94610:5"/>thy name,</hi> and ver. 159. <hi>Conſider how I love thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>recepts, quicken me Oh Lord according to thy loving kindneſs;</hi> So that there is a further encou<g ref="char:EOLhyphen"/>ragement for the Spouſe to cleave to Chriſt Jeſus, becauſe ſhe finds this love in her to be a fruit of his everlaſting love to her, now Faith finding ſuch an Object, not only is perſwaded that he is all ſufficient and willing to ſave, but the will chuſeth him for it's portion, cleaves to him and reſts upon him for all ſafety and good, as <hi>it's all in all,</hi> and gives up it ſelf to be guided, ordered and diſpoſed of in all conditions, as moſt ſafe and happy in his hands and diſpoſe, Faith counts it ſelf moſt ſafe in the Arms of Chriſt, this is one effect of Faith, for the Soul to give up it ſelf to Chriſt, to do as he will with it, he may give what he will, and take what he will; the Soul is willing to part with any thing at the command o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſt, willing to part with it's deareſt ſins and luſts for Chriſt Jeſus, ſo that a Spouſe of Chriſt, ſeeing the Wiſdome, Faithfulneſs, Power and Love of the Lord Jeſus doth chuſe him for her portion, and give up her ſelf to Chriſt, willing to be at his diſpoſing, and willing to part with any thing for Chriſt; here is her leaning upon her Beloved, and ſo ſhe fears not for any evil tidings.</p>
+                  <p>Doct. <hi>It is a matter of much Obſervation and Admiration, to ſee a Spouſe of Chriſt coming out of a VVilderneſs condition, and leaning by Faith firmly upon Chriſt as her beloved;</hi>
+                  </p>
+                  <p>Proof, That the excellency of the Spouſe of Chriſt is in leaning upon her Beloved, <hi>Heh. 11. gives a Cloud of VVitneſſes, Abraham</hi> left his Country <hi>by Faith,</hi> offered up <hi>Iſaac by Faith; Noah</hi> prepares an Arke <hi>by Faith,</hi> others endured cruel mocking <hi>by Faith;</hi> Oh the <hi>vertue and admirable effects of Faith!</hi> you ſee in the VVilderneſs, how highly God approved of <hi>Caleb,</hi> who followed God fully, when others ſpake evil of the good Land, ſaith <hi>Calch, they ſhall he meat for us, we are w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll able to overcome them; My ſervant Cal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> ſaith the Lord, <hi>he ſhall go in, his Seed ſhall poſſeſs it,</hi> how highly the Lord approves of Faith, you may ſee in the Church of <hi>Philadelphia,</hi> Rev. 3.8, 9, 10. he finds no fault with them, but highly commends them for keeping the word of his patience, and promiſes moſt ſafe protection when the hour of temptation over<g ref="char:EOLhyphen"/>ſpreads the World; the <hi>Centurion</hi> who had ſuch Faith as to ſay, <hi>Speak but the word and my Servant ſhall be healed,</hi> Chriſt highly commends that Faith, as not having found ſuch, <hi>no not in Iſrael;</hi> So the Woman of <hi>Ca<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aan,</hi> her Faith Chriſt commends, and ſaith, <hi>be it to thee even as thou wilt.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:94610:5"/>
+                  <p> 
+                     <hi>Reaſ.</hi> 1. It is ſo, not only from the excellency of Faith it ſelf, but from the excellency of a tryed Faith, 1 <hi>Pet. 1.7. That the trial of your Faith, being much more precious then of Gold that periſheth, though it be tried with fire, might be found unto praiſe and honour and glory at the ap<g ref="char:EOLhyphen"/>pearing of Chriſt Jeſus,</hi> Pſal. <hi>12.6. The Words of the Lord are pure words, as ſilver tried in a Furnace of Earth, purified ſeven times,</hi> as the word is pure and precious, ſo is Faith under Wilderneſs trials.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 2. Becauſe this leaning upon Chriſt in ſuch a ſtate is an evi<g ref="char:EOLhyphen"/>dence of great love to Chriſt; this the Lord takes great notice of, <hi>Ier. 2.2. I remember the kindneſs of thy youth, the love of thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſpouſals when thou wenteſt after me in the wilderneſs,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 3. Becauſe it's a glorious thing to behold the love of God, and Jeſus Chriſt, to lead up ſuch a Spouſe out of a Wilderneſs, it cauſes that glory as is aſcribed to God, of old, as that one act at the red Sea did, <hi>Exod. 15, 16. VVho is like unto thee O Lord, glorious in Holineſs, fear<g ref="char:EOLhyphen"/>ful in praiſes, doing wonders,</hi> Deut. <hi>32.10, 11. He found them in a deſart Land, and in the wast bowling VVilderneſs, he led him about, he inſtucted him, he kept him as the apple of his eye,</hi> &amp;c.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe 1. Inſtruction:</hi> Here we may obſerve, and ſee the manner of Gods dealing even with his moſt precious Churches and People, even with this <hi>Shulamite,</hi> he brings her out of the Wilderneſs, ſo the Lord did of old, when he brought his people out of <hi>Egypt;</hi> He brought them into the Wilderneſs, and the Lord ſaw the mixed multitude a<g ref="char:EOLhyphen"/>mongſt them, and that Generation muſt be all worn out before he brought them into the promiſed Land: In the Wilderneſs the Lord ſhewed his wonderful works, ſeeding them with <hi>Manna,</hi> and giving them water out of the Rock; there God proved them, to know what was in their hearts, and he found abundance of ſin, and pride, and re<g ref="char:EOLhyphen"/>bellion in them, and yet all was to do them good in the latter end: So when he brought them out of <hi>Babilon</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, we read in <hi>Ezra</hi> and <hi>Nehemiah</hi> what afflictions and oppoſitions they m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t withal, of Blaſtings and Mildews, and diſappointments in their Labours they were exerci<g ref="char:EOLhyphen"/>ſed withal, as may be ſeen in the Prophecy of <hi>Haggai,</hi> and ſo it will be with this <hi>Shulamite,</hi> the Church of the Jews at their return; the Lord will bring them out of the Wilderneſs of the People through ma<g ref="char:EOLhyphen"/>ny temptations and afflictions, and that Wilderneſs condition may ſeem to continue for a long time; if we compare <hi>Dan. 12.11, 12.</hi> it ap<g ref="char:EOLhyphen"/>pears to be <hi>fourty five years,</hi> and ſo it hath been with the reformed Chur<g ref="char:EOLhyphen"/>ches
+<pb n="6" facs="tcp:94610:6"/>that are come out of ſpiritual <hi>Babilon,</hi> in <hi>Scotland, Holland</hi> and <hi>Geneva,</hi> and the reſt, what bloody wars? what perſecutions and try<g ref="char:EOLhyphen"/>als of various kinds? nay, what Soul is it that the Lord hath brought home to himſelf, but that they are brought out of a wilderneſs of try<g ref="char:EOLhyphen"/>als, afflictions and temptations, ſpiritual or outward, to purge them, and make them white, <hi>Dan. 12.</hi> to bring them out of all confidence in themſelves; therefore wonder not at the perſecutions and troubles that befal the Churches and Saints this day in the world: God no doubt is doing ſome great work for his People, the Lord Jeſus hath <hi>his Fan in his hand, and will throughly purge his Floor, burn up the Chaffe, and gather his VVheat into his Garner:</hi> Let us not promiſe our ſelves a peaceable condition, we may fear that the Lord hath further wilderneſs tryals to bring us through, that he may purge out the Rebels, and thoſe that tranſ<g ref="char:EOLhyphen"/>greſs, we may fear that we are a people <hi>ripe for judgement,</hi> when there is ſuch great ſins breaking out amongſt us, when there is ſo much De<g ref="char:EOLhyphen"/>viſion, Worldlineſs, &amp;c. Let us not be ſecure, the Lord may juſtly car<g ref="char:EOLhyphen"/>ry us through a wilderneſs of ſore tryals, to purge his Churches of the Chaffe, and to take us off from the World, and confidence in his Ordinances, which we are too apt to lean upon.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Inſtruction:</hi> We may here obſerve what it is that makes a Spouſe of Chriſt, or any Soul, an object of enquiry and admiration: <hi>Her leaning on her Beloved by Faith and love,</hi> this is the Glory, Beauty, and Excellency of any Church, or Spouſe of Chriſt, or Soul, to be much in the exerciſe of Faith and Love; Faith is that which gives Glory to God; <hi>Abraham</hi> gave glory to God by Believing, <hi>Rom 4.20. He ſtag<g ref="char:EOLhyphen"/>gered not at the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of God through unbelief, but was ſtrong in Faith giving Glory to God,</hi> That is therefore the eminency of any Church or Soul, to give Glory to God by Believing; thus <hi>Iob</hi> under all his affli<g ref="char:EOLhyphen"/>ctions and temptations, could believe that his <hi>Redeemer did live,</hi> and that he ſhould ſee him at the laſt day upon the Earth, which was an emi<g ref="char:EOLhyphen"/>nency in him; it's therefore I ſay, the eminency of any Church or Soul, to be ſtrong in Faith, it is a great diſhonour to God, and to Jeſus Chriſt, when Diſciples that have been long in the School of Chriſt, yet have but little Faith, how oft did the Lord Jeſus upbraid his Diſciples with this, <hi>Oh ye of little Faith,</hi> and ſometimes, <hi>how is it that you have no Faith?</hi> this is an eminency in a Chriſtian, when he can give much Glo<g ref="char:EOLhyphen"/>ry to God by Believing, Chriſt delighteth in this, and admires the Faith of the <hi>Centurion,</hi> Mat. 8.10. <hi>VVhen Jeſus heard it he marvelled, and ſaid
+<pb n="7" facs="tcp:94610:6"/>to them that followed; verily I ſay unto you, I have not found ſo great Faith no not in Iſrael,</hi> ver. 13. <hi>And Ieſus ſaid unto the Centurion, go thy way, and as thou haſt believed ſo be it done unto thee, and his Servant was healed in the ſelf ſame hour;</hi> In this life of Faith, the Apoſtle <hi>Paul</hi> was very emi<g ref="char:EOLhyphen"/>nent, when he ſaid, <hi>the life that I now live, I live by Faith in the Son of God,</hi> Pſal. 27.1, 2, 3. the ſtrength of his Faith was ſuch, that he ſaid, <hi>though an Hoſt ſhould encamp against me my heart ſhould not fai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, though war ſhould riſe againſt me, in this will I be confident;</hi> Faith gives God the Glory of his Power, faithfulneſs, mercy and grace, to lean and venture the whole Intereſt of the Soul for Eternity upon the Lord Jeſus Chriſt, notwithſtanding ſo many Sins, Corruptions and Temptations, this is a great and glorious work, <hi>this is our victory over the world, even our Faith,</hi> and this Faith is that which draws vertue from Jeſus Chriſt, which cau<g ref="char:EOLhyphen"/>ſeth the Soul to be in love with the Lord Jeſus, as we may ſee in the Spouſe, <hi>ſhe leaned upon her Beloved,</hi> upon his love to her, and the more becauſe ſhe felt his love to her; Oh the eminency of Faith and love, as the Apoſtle highly commends the Church of the <hi>Theſſalonians,</hi> 1 Theſſ. 1.2, 3. <hi>VVe give thanks to God alwayes for your work of Faith, and abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of love,</hi> ſo Chap. 58. He <hi>calls Faith and Love the Breſt-plate, 1 Tim. 1.14. the grace of our Lord was exceeding abundant with Faith and Love, which is in Chriſt Ieſus,</hi> where ye ſee much Faith and Love, you may ſay, there is abundance of Grace in that Soul, <hi>1 Pet. 1.8. VVhom having not ſeen yee love, in whom though now ye ſee him not, yet believing, ye rejoyce with joy unſpeakable and full of glory;</hi> This Love cauſeth the Soul to love the Holy God, his Holy Law, and alſo to love all the Saints of God, <hi>and this is far above nature,</hi> it argues a purified heart to love the Saints, <hi>as 1 Pet. 1.22 Seing ye have purified your Souls in obeying the Truth through the Spirit, unto unfeigned love of the Brethren; ſee that you love one another with a pure heart fervently:</hi> Love is the fulfilling of the Law, and Faith worketh by love, theſe two <hi>Graces</hi> will be the glory of the <hi>Shulamite,</hi> the new <hi>Ieruſalem</hi> that is to come down from Heaven, and it is the beauty and glory of any Chriſtian; the want or defects in theſe graces is a great blemiſh in any Spouſe of Chriſt, or Chriſtian; let us therefore I ſay acknowledge the eminency of that Church or Soul that is much in the exerciſe of Faith and Love.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 3. <hi>Inſtruction:</hi> Here we may obſerve and ſee the ſafety of any Soul o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Church of Chriſt, to lean and ſtay it ſelf upon Jeſus Chriſt in Wilderneſs Tryals and Afflictions: So <hi>Caleb</hi> and <hi>Ioſhua,</hi> ſo long as
+<pb n="8" facs="tcp:94610:7"/>they truſted in God and cleaved to him, the Lord was with them, and brought them into the promiſed Land, what can any Soul have to lean upon in an evil day of tryal, <hi>truſt not in Princes, or any Son of man, his breath is in his noſtrils,</hi> by ſtrength ſhall no man prevail: Confidence in Church Priviledges, if men truſt to them or Ordinances, yea if they cry <hi>the Temple of the Lord, the Temple of the Lord,</hi> ſee what the Lord ſpeaketh to this very largely; <hi>Ier. 10. &amp; Iſai. 48.1, 2.</hi> they call themſelves the <hi>Holy City,</hi> and ſtay themſelves upon the God of Iſrael, but not in Truth, all ſuch props as theſe will deceive them that lean upon them; but now for a Soul to lean upon Chriſt as her Beloved, in the enjoy<g ref="char:EOLhyphen"/>ment of all his Ordinances, ſuch a Soul may finde comfort herein, as Holy <hi>David,</hi> Pſal. 27.4, 5. <hi>One thing have I deſired of the Lord, that will I ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>k after, that I may dwell in the Houſe of the Lord all the dayes of my life, to behold the beauty of the Lord, and to enquire in his Holy Temple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. For in the time of trouble he ſhall hide me in his Pavillion, in: the ſecret of his Tabernacle ſhall he hide me, he ſhall ſet me upon a Rock.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe.</hi> 4. <hi>Tryal:</hi> But would you be ſafe in times of Tryal and Af<g ref="char:EOLhyphen"/>fliction<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1. Conſider what intereſt you have in Jeſus Chriſt; can you lean and ſtay upon him alone, and ſay, <hi>he is my Rock, my only Refuge;</hi> have you choſen him as your Portion? your all in all? are all things dung and droſſe in compariſon of him? can you ſuffer the loſs of all for him? this is a true leaning upon Chriſt as your Beloved; but when the Soul wants an intereſt in Chriſt Jeſus, and hath not him to lean upon, whether will ſuch a Soul flee for help in times of tryal, trouble and di<g ref="char:EOLhyphen"/>ſtreſſes? there is then none but Chriſt, none but Chriſt that will ſuit the Soul, in this reſpect you may venture to lean upon him, he is able and willing to bear all the weight that is laid upon him; it doth therefore nearly concern every Soul to conſider what intereſt he hath in Jeſus Chriſt, what perſwaſion have you had of the alſufficiency, and grace, and mercy of the Lord Jeſus Chriſt, have you tryed his alſufficiency? can you be perſwaded of the alſufficiency of one that you never tryed? but eſpecially conſider whether God hath drawn your heart to chuſe Jeſus Chriſt for your portion, for your ſtay and ſupport, for your all and in all, and that you have laid the whole weight of your Souls upon him, have you given up your ſelves to Chriſt to be at his diſpoſe? have you choſen and taken him for your Lord and Chriſt, and are you at his com<g ref="char:EOLhyphen"/>mand? can you part with your deareſt Luſt and ſin as his command en<g ref="char:EOLhyphen"/>gages your Souls to do, and ſuffer any thing that he requires?</p>
+                  <p n="2">
+                     <pb n="9" facs="tcp:94610:7"/> 2. Conſider, is he your Beloved? do you lean upon Jeſus Chriſt as your Beloved, as he whom your Soul loveth, as he that is altogether beautiful and deſirable? is your greateſt delight in communion with God, ſo that if Chriſt ſhould ask you the Queſtion he asked <hi>Peter, Ioh. 2.1.17. Simon loveſt thou me more then theſe?</hi> can you then Anſwer, <hi>in truth Lord thou knoweſt all things, thou knoweſt that I love thee,</hi> do you love to be in the company of Jeſus Chriſt? do you love the Image of Chriſt wherever you ſee it? are you glad to do him any ſervice? do you love all that is Chriſts, his Ordinances, Word, Law, his Miniſters, Saints, if you take delight in theſe things, it is a ſign Chriſt hath loved you, and that you will lean upon Chriſt in the evil dayes; and bleſſed and happy is that Soul that can thus lean upon Chriſt her Beloved, when wilder<g ref="char:EOLhyphen"/>neſs-tryals, troubles and afflictions comes upon them, all ſuch have Chriſt for their Head, and Husband, and Saviour, and are ſafe in his arms; where this is wanting conſider what we have, <hi>Iſai. 10.3. And what will ye do in the day of viſitation, and in the deſolation which ſhall come from far, to whom will ye flee for help, and where will you leave your glory?</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe 5. Exhortation:</hi> 1. To them that yet have no part in Chriſt; La<g ref="char:EOLhyphen"/>bour for that Faith in, and Love to the Lord Jeſus Chriſt, that Chriſt may not ſhake you off in an evil day; what intereſt have you in the World that can reach your Souls to ſave them? what is there in Heaven or Earth that can ſave the Soul but only the Lord Jeſus Chriſt? <hi>He is able to ſave to the utmoſt all that come to God by him,</hi> Joh. 3.36. <hi>He that believeth on the Son hath everlaſting life, and he that believeth not the Son<g ref="char:EOLhyphen"/>ſhall not ſee life, but the wrath of God abideth on him,</hi> Oh think oft of this Scripture, and conſider of the means of grace God hath ſo long af<g ref="char:EOLhyphen"/>forded you, and how oft he hath been calling upon you, and knocking at the doors of your hearts: Oh take the ſeaſon while it laſts! Oh <hi>to day, to day, while it is called to day, harden not your hearts, leaſt God Sware in his wrath that you ſhall never enter into his reſt,</hi> Chriſt bad them walk in the light while they had the light, and immediately he with<g ref="char:EOLhyphen"/>drew himſelf from them; Oh do but forſake your ſin, all your ſins, and accept of the Lord Jeſus upon his own terms, and then you may venture to lean upon the Lord Jeſus Chriſt, he is able to bear the weight of all your Souls.</p>
+                  <p n="2">2. Branch, <hi>To the Spouſe of Chriſt:</hi> Be much in the exerciſe of Faith and Love: <hi>Firſt,</hi> Be much in the exerciſe of Faith, lean upon Chriſt as
+<pb n="10" facs="tcp:94610:8"/>your Beloved, ſtay on him, reſt upon him, caſt all your burthen and care upon him, ſtrengthen your ſelves in him, you will need a ſtrong Faith in wilderneſs tryals that may befal us; conſider how weak we are with<g ref="char:EOLhyphen"/>out Faith in Chriſt, which will ſhield us againſt our potent enemies: Sa<g ref="char:EOLhyphen"/>than and all the World, all other props are but as a broken Reed, where<g ref="char:EOLhyphen"/>on will you lean elſe; you have no righteouſneſs, no goodneſs, no wiſe<g ref="char:EOLhyphen"/>dome in your ſelves, where will you lean then if not upon Chriſt? what is there in the Creature that you may lean upon, all the things of the World are <hi>Vanity of vanities;</hi> therefore caſt your care and your bur<g ref="char:EOLhyphen"/>then upon the Lord Jeſus who is able to ſtabliſh, ſtrengthen and ſettle you, he is able to bear all the weight that is laid upon him; do your ſins and corruptions trouble you, you may lay the weight of them upon the Lord Jeſus, he is able to bear them, you may caſt the care of your Souls upon him, ye may caſt the care of your Families, the care of your Chil<g ref="char:EOLhyphen"/>dren, you may caſt all upon him, he is able to bear the weight of all, he is the <hi>Rock of ages:</hi> Conſider who your Beloved is, the Lord Jeſus Chriſt, the God of Glory, the Redeemer and Saviour of his People, that Redeemeth <hi>Iſrael</hi> from all their Iniquities, <hi>If any man ſin we have an Advocate, 1 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohn 2.1.</hi> He hath all Power in Heaven andEarth, he is the Soveraign Lord of all, you can be in no danger, but he is able to ſave, and he knows how to do it, for he is only wiſe, and he is faithful in all his promiſes, and he is very loving, he hath loved his with an everlaſt<g ref="char:EOLhyphen"/>ing love, and from thence he hath given himſelf for us, and will not lofe any that come to him; <hi>whom he loveth he loveth to the end,</hi> believe much and you ſhall receive much, Chriſt ſaith to thee, be it as thou wilt, a Faith that will not be beaten off that hangs upon Chriſt for a bleſ<g ref="char:EOLhyphen"/>ſing; and as <hi>Jacob</hi> will not let go without a bleſſing, ſhall ſurely have it, what can any believing Soul finde in Chriſt, that may not encourage him to lean upon him, he is the Saviour, the Head and Husband of his Church that takes care of them and that continually; he is the Redeemer of his People, that redeems them, not only from all their adverſities but from all their iniquities; Oh then venture upon Jeſus Chriſt, and let Faith overcome all your doubts, this Chriſt will accept of; conſider what en<g ref="char:EOLhyphen"/>couragements a Believer hath to venture all upon Chriſt, we have en<g ref="char:EOLhyphen"/>couragement from the Covenant of Grace, <hi>Ezek. 36.25, 26. Then will Iſprinkle clean water upon you, and ye ſhall be clean from all your ſilthineſs and from all your Idols will I cleanſe you, a new heart alſo will I give you, and a new Spirit will I put within you, and I will take away the ſtony heart
+<pb n="11" facs="tcp:94610:8"/>out of your fleſh, and I will give you an heart of fleſh, and I will put my Spirit within you, and cauſe you to walk in my way, and I will write my Law in your inward parts, and I will put my fear into your hearts, and you ſhall not depart from me, and I will forgive your ſins, and remember them no more;</hi> &amp; conſider how God hath confirmed this covenant even by his Oath, he hath Sworn by himſelf, that we might have ſtrong conſola<g ref="char:EOLhyphen"/>tion; and he hath confirmed it alſo by the Seals of the Covenant, the Lord hath given us two Seals, he hath ſet the Seal of Baptiſm to it, whereby God hath owned us for his, <hi>We are Baptized into the Name of the Father, Son and Holy Ghost,</hi> beſides he hath given us the bleſſed Supper of the Lord; Oh what a bleſſed Seal is that wherein the Lord offers a crucified Chriſt to us, with all his merits, he offers Chriſt with all the benefits and priviledges thereunto belonging; when Chriſt is of<g ref="char:EOLhyphen"/>fered, all his offered; this Ordinance it ſignifieth that ſpiritual nouriſh<g ref="char:EOLhyphen"/>ment your Souls may have by a crucified Chriſt, when the Lord ſaid, <hi>This is my Body which was broken for you, and this is my Blood which was ſhed for you,</hi> ſhall we be unbelieving notwithſtanding all this, and weak in the Faith, like <hi>Thomas,</hi> God forbid.</p>
+                  <p>
+                     <hi>Laſtly,</hi> Be much in love to Jeſus Chriſt, that you may ſay, <hi>you lean upon your Beloved,</hi> is there not great cauſe that we ſhould love Chriſt dearly, that hath given himſelf to death for us; what love is due to him that dyed for us, where is there ſuch love to be found in the World? Oh what ardent love ſhould then be to the Lord Jeſus, therefore let us ſhew our love to him, and let our love be enflamed to him, let us be willing to dye for him that hath dyed for us, let us love him with all our hearts and ſouls, and all our might, that hath ſo greatly loved us.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:94610:9"/>
+                  <p>THE <hi>Lord Jeſus his LEGACIE of PEACE,</hi> To Arm his Diſciples againſt Trouble and Fear: <hi>OR, A</hi> SERMON PREACHED BY <hi>Mr. JOHN ALLIN</hi> The late Reverend Paſtor of the Church of Chriſt in <hi>Dedham,</hi> Auguſt 13. 1671.</p>
+                  <p>
+                     <hi>Being the laſt that he Preached before his Death,</hi> which was Auguſt 26. 1671.</p>
+                  <q>
+                     <hi>Glory to God in the highest, on Earth peace, towards men good will,</hi> 
+                     <bibl>Luk. 2.14.</bibl>
+                  </q>
+                  <p>
+                     <hi>Cambridge:</hi> Printed in the Year 1672.</p>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="13" facs="tcp:94610:9" rendition="simple:additions"/>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>John 14.27.</hi>
+                        </bibl>
+                        <p>Peace I leave with you: my peace I give unto you, not as the World giveth, give I unto you; let not your heart be troubled, neither let it be afraid.</p>
+                     </q>
+                  </epigraph>
+                  <p>AFter ſo many Conſolations and Promiſes of the Comforter, as the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Jeſus had armed his Diſciples with againſt his departure; in theſe words he takes his leave or fare<g ref="char:EOLhyphen"/>wel of them, leaving this his Legacy with them, name<g ref="char:EOLhyphen"/>ly, <hi>The bleſſing of peace,</hi> telling them what peace, ſaying, <hi>My peace I give unto y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u, not as the World giveth,</hi> and the fruit of Chriſt peace, was to ſtay their hearts againſt all trouble and fear, as <hi>ver. r. Let not your Hearts be troubled,</hi> but my peace I leave with you as my bleſſing, as the Apoſtle ſpeaks, <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pheſ. 6.23, Peace be to the Brethren, and love with Faith from God the Father, and the Lord Jeſus Chriſt,</hi> 1 Pet. 5.14. <hi>Peace be with all that are in Chriſt Jeſus Amen;</hi> and it is a frequent Farewel in the Scripture, as alſo in Salutations; the ſcope of our Saviour in theſe words or valediction, is the ſame he began withal, <hi>ver. 1.</hi> to ſtay their hearts againſt all fear and trouble; it was no doubt a great trouble, and tryal to the hearts of the Diſciples of Jeſus Chriſt, to looſe ſuch a Ma<g ref="char:EOLhyphen"/>ſter and Teacher as he was, and that by ſo painful and ſhameful a death, as the death of the Croſſe; and ſo it was notwithſtanding all that he had ſpoken to them, therefore he leaves peace with them, <hi>My peace I give unto you.</hi>
+                  </p>
+                  <p>To open the words, <hi>My peace I leave with you,</hi> as if our Saviour had ſaid, I am now about to part with you, I muſt leave you, but I will leave this Legacy, <hi>My peace,</hi> and that not an ordinary peace, but <hi>my peace,</hi> and that I give unto you, you ſhall have; peace is uſually taken for, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mplies protection from all evil, and the enjoyment of all good: but that they may know what peace this is, he tells them, <hi>it's my peace,</hi> Chriſt
+<pb n="14" facs="tcp:94610:10"/>is the <hi>Prince of peace,</hi> the Attonement, the God of peace, all peace comes from him, he it is that gives all manner of peace.</p>
+                  <p>
+                     <hi>Firſt,</hi> He gives peace with God, you will ſay what manner of peace is that; the Apoſtle tells us, <hi>Phil</hi> 4.7 <hi>The peace of God that paſ<g ref="char:EOLhyphen"/>ſeth all underſtanding,</hi> unſpeakable and unutterable, ſuch a peace that even thoſe that have it cannot conceive the excellency of it, much leſs can they expreſs it; God is an Enemy againſt ſin, and ſinners and they are at enmity with God, and for a ſinner that hath offended, and pro<g ref="char:EOLhyphen"/>voked God, and that therefore hath no hope in God, now for ſuch a ſinner to be at peace with God, who can conceive what it is, you may ſee the excellency of it if you conſider the perſons that are now at peace, for a poor, wretched, miſerable, condemned ſinner to be at peace with God, and that this ſhould flow from the love of God, in pardoning all his ſins, and to account him righteous in his ſight; that he that was an enemy to the Great and Holy God, even in his minde by evil works, and had God himſelf, the Holy Juſt God an enemy to him, that will avenge himſelf on his enemies by Eternal puniſhment, yet now to be at peace with God, and that God will own him as a Friend, forgiving all his ſins, accepting him as juſt &amp; righteous to ete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nal life, &amp; take him into his high favour, as a Son and Heir of Heaven, and all this through the Blood of his own Son, yea, by the blood of his Croſs is this peace made, ſo juſtifying his Law and Juſtice, a great price muſt be payed to purchaſe it, and the tearms is free grace, in a covenant of grace to all that believe, it is free grace in God to accept of a ſatisfaction in Chriſt, he might have exacted it of the ſinner himſelf, and the tearms of this free grace are only to believe and accept of it; the new Covenant is eſtabliſhed upon better promiſes then the old, wherein God hath pro<g ref="char:EOLhyphen"/>miſed to take away a hard and ſtony heart, and to give a heart of fleſh; now for a ſinner to be at peace with God, through the merit and righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt, and upon the tearms of the covenant of grace, and what follows, God now takes them into the ſtate of Sons, <hi>ye ſhall be my Sons and Daughters, ſaith the Lord God Almighty,</hi> and they are made Heirs of the Glory of Chriſt, for a ſinner thus to be at peace with God, I ſay who can tell what it is to be Heirs of God, and co heirs with Jeſus Chriſt, this is Chriſts peace which he gives to his Diſciples.</p>
+                  <p>
+                     <hi>Secondly,</hi> This peace is the inward peace of a good Conſcience, the ſence of that peace which a Soul hath with God, through Jeſus Chriſt, being prinkled from an evil Conſcience, we have boldneſs, and acceſs
+<pb n="15" facs="tcp:94610:10"/>with aſſurance of Faith unto the holieſt of all, and confidence towards God, 1 <hi>Joh.</hi> 3. God ſending his Spirit the Comforter, to witneſs that we are at peace with God, yea, he ſends his Spirit to ſeal up this peace with God, and this breeds joy unſpeakable and full of glory, it fills the Soul with all joy in Believing, <hi>Rom. 15 13. Now the God of hope all you with all joy and peace in believing, that you may abound in hope through the power of the Holy Ghoſt,</hi> ſo that we may boldly go to the Throne of grace, yea even to the holieſt of all with confidence to wards God, and have liberty before him, this is a ſingular part of this peace, to be per<g ref="char:EOLhyphen"/>ſwaded that we are at peace with God, and that we are the Children of God, and that we are partakers of all the priviledges of the Sons of God.</p>
+                  <p>
+                     <hi>Thirdly,</hi> Chriſts peace is a peace with men, and ſo uſually taken in Scripture, and eſpecially with the Saints, <hi>Epheſ.</hi> 2.14. For he is our peace who hath made bath one, and hath broken own the m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e wall of partition between us, that we m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y be all o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Ieſus Chriſt, both J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ws and Gentiles.</p>
+                  <p>
+                     <hi>Fourthly,</hi> This peace comprehends peace with the Creature, even with the Beaſts of the field, <hi>Job 5 23 For thou ſhait be in lea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ue with the Stones of the field, and the Beaſts of the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d ſhall be at peace with thee:</hi> It we be at peace with the King, we are at peace with all his people, if we be at peace with the Commander of the field, we are at peace with all the Army; all creatures are at peace with the Saints, and ſerve all for their guard, yea this peace of Chriſt is protection from all evil, <hi>2 Tim. 4 18. And the Lord ſhall deliver me from every ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l work, and preſerve me unto his Heavenly Kingdome,</hi> Rom 8.28. <hi>And we know that all things w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rk together for good to them that love God, to them that are the called, according to his purpoſe.</hi>
+                  </p>
+                  <p>And this peace Chriſt promiſes, and this peace he gives, but not as the World giveth give I unto you, ſome may ſay, why? wherein is the difference? I ſhall briefly note the difference in two or three particulars.</p>
+                  <p n="1">1. The peace which the World gives, is more in words then in reali<g ref="char:EOLhyphen"/>ties, it is oft times only in words, <hi>Pſal 28.3. Draw me not away with the wicked, and with the workers of Iniquity, which ſpeak peace to their neighbour, but miſchief is in their heart,</hi> as we may ſee in the Example of <hi>Joab</hi> and <hi>Abner, 2 Sam. 3.27.</hi> If the Lord ſpeaks peace, who ſhall ſpeak trouble, and if the Lord ſpeaks peace he ſpeaks from the very heart to the heart, and not in words of courſe or complement as the World uſe to do.</p>
+                  <p n="2">
+                     <pb n="16" facs="tcp:94610:11"/> 2. The peace which the world gives, is peace outward to the outward man, they may give outward peace, and fill you with the good things of the world, but it reacheth not the principal part of the man, it rea<g ref="char:EOLhyphen"/>cheth not the heart, but the peace which Chriſt gives, it reacheth the heart, it reacheth the ſoul, and the peace that reacheth the Soul reacheth the Body alſo; but the peace of the world reacheth the Body, but not the Soul; Chriſts peace ſecureth the Soul and inward man, it guards the heart, <hi>Phil. 4.7. And the peace of God which paſſeth all underſtanding, ſhall keep your hearts and minds through <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſus Chriſt,</hi> or as it is in the O<g ref="char:EOLhyphen"/>riginal, <hi>ſhall guard your hearts.</hi>
+                  </p>
+                  <p n="3">3. The peace of the World is very uncertain, and ſhort, when they ſay peace, peace, then oft ſuddain deſtruction comes upon them, as the Example of <hi>Haman</hi> in his great Honour and ſuddain downfall doth prove, <hi>Eſth. 5.11, 12. And Haman told his friends of his great and ſingu<g ref="char:EOLhyphen"/>lar favour with the King and Queen,</hi> but the next day, Chap. 7.10. <hi>He was hanged upon the Gallows he had prepared for Mordecai;</hi> and the ſtrongeſt league of friendſhip amongſt men of the World, is ſoon bro<g ref="char:EOLhyphen"/>ken, when mens own intereſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuit another way, but the peace which Chriſt gives, is a firm, laſting, everlaſting peace, <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ai. 9.7. Of the increaſe of his Government and peace, there ſhall be no end;</hi> once at peace with God and ever at peace, God and that Soul will never fall out any more.</p>
+                  <p>This being the fruit and effect of this peace, their hearts ought not to be troubled, let not your hearts be diſquiet, let them not ſink in any affliction that can befal you in this world; here is that peace that may bear up your hearts under any trouble or tryal that at any time you may meet withal, nor need they be afraid what ever tidings they hear, or what ever dangers approach as Chriſt had told his Diſciples of many troubles, as wars and rumors of wars, yet ſaith Chriſt, be not afraid with ſuch a fear as ſtands not with Faith and hope in God,: this peace that I leave with you, it is enough to defend your hearts from fear of any troubles whatſoever, as the Pſalmiſt ſpeaks, <hi>I will not be afraid though the mountains be removed and caſt into the Sea,</hi> and therefore though others fear, yet be not you afraid, as the Prophet ſpeaks, <hi>Iſai. 8.12, 13. neither fear you therefore, nor be afraid, Sanctifie the Lord of Hoſts himſelf, and let him be your fear &amp; dread,</hi> as if Chriſt ſhould ſay, I give you that true peace that may quiet your hearts under any trouble <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> diſtreſs, or whatſoever you may meet withal in this World.</p>
+                  <pb n="17" facs="tcp:94610:11"/>
+                  <p> The Doctrine from theſe words is, that</p>
+                  <p>Doct. <hi>That that peace which Ieſus Chriſt hath purchaſed, and given to his true Diſciples, is ſuch as may ſtrength them againgſt all distracting troubles and fears in this world.</hi>
+                  </p>
+                  <p>The truth of this appears, <hi>Pſal. 37.11. But the meek ſhall inherit the Earth, and ſhall delight themſelves in the abundance of peace,</hi> and ver. 37. <hi>Mark the perfect man, and behold the upright, for the end of that man is peace.</hi> Pſal. 119 165. <hi>Great peace have they which love thy Law, and no<g ref="char:EOLhyphen"/>thing ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffend them,</hi> they do not ſtumble at any thing as other men do, Pſal. 125.1. <hi>They that trust in the Lord ſhall be as Mount Sion, which cannot be removed, but abideth for ever.</hi> ver. 2. <hi>As the Mountains are round about Ieruſalem, ſo the Lord is round about his people, from hence<g ref="char:EOLhyphen"/>forth even for ever.</hi> Pſal. 112.7, 8. <hi>Surely he ſhall not be moved for ever, he ſhall not be afraid of evil tidings, his heart is fixed trusting in the Lord, his heart is eſtabliſhed, he ſhall not be afraid:</hi> Rom. 8.1. <hi>There is there<g ref="char:EOLhyphen"/>fore no condemnation to them that are in Chriſt Ieſus, &amp;c.</hi> they are out of all fear of Condemnation, Joh. 16.33. <hi>Theſe things have I ſpoken to you, that in me ye may have pea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, in the World you ſhall have tribulation, but be of good chear I have overcome the World,</hi> Rom. 5.1, 2, 3<g ref="char:punc">▪</g> 
+                     <hi>Therefore being ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ified by Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th, we have peace with God, through our Lord Ieſus Chriſt, by whom alſo we have acceſs by Faith to this grace wherein we ſtand, and r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>joyce in hope of the glory of God:</hi> and not only ſo, but we glory in tri<g ref="char:EOLhyphen"/>bulations alſo, Phil 4.7. <hi>And the peace of God, which paſſeth all under<g ref="char:EOLhyphen"/>ſtanding, ſhall keep or guard your hearts and minds through Ieſus Chriſt.</hi> Pſal. 43.5. <hi>Why art thou caſt down Oh my Soul, and why art thou diſqui<g ref="char:EOLhyphen"/>eted within me, hope in God for I ſhall yet praiſe him, who is the health of my countenance and my God;</hi> the like ſee in <hi>Paul</hi> and <hi>Sil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> Act. 16.24, 25. who ſang praiſes unto God in Priſon and in the Stocks.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 1. From the unſpeakable, unconceivable and excellent worth of this peace, it will out bid all other things in the world; Oh how this helps a man in all ſtraits, what need he fear what man can do, what need he fear what devils can do; as <hi>David</hi> when in great trouble and diſ<g ref="char:EOLhyphen"/>quiet <hi>Pſal. 43.5. Why act thou caſt down O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m, Soul, and why art thou diſquieted within me, hope in God for I ſhall yet praiſe him, who is the he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th of my Countenance and my God,</hi> this made, him confident,
+<pb n="18" facs="tcp:94610:12"/>he chides himſelf becauſe he was now diſquieted, ſo <hi>Pſal. 42.5.11.</hi> as al<g ref="char:EOLhyphen"/>ſo elſewhere, <hi>The Lord is my light and my ſalvation, of whom then ſhall I be afraid; if an Host ſhould compaſs me about, in the Name of the Lord I will deſtroy them,</hi> this peace with God takes away not only all fears and dangers of condemnation, as <hi>Rom. 8.1.</hi> but alſo the ſting of ſin and death, <hi>1 Cor. 15.55. Oh Death where is thy ſting, Oh Grave where is thy Victory?</hi>
+                  </p>
+                  <p>
+                     <hi>Reaſ.</hi> 2. Becauſe this peace is in the hand of Chriſt, who payed a great price for it, and he will maintain it, that although we ſin yet he is our Advocate, and preſerves our peace with God; this peace is the peace of Chriſt, he hath purchaſed it with his Blood, he freely giveth it, therefore ſurely he will maintain it, he will not take it away, as the World gives peace one day, and taketh it away another; this peace is an everlaſting peace.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 3. Becauſe this peace does not only ſet the Soul free from fear of wrath, but it makes every thing eaſie, and it takes away the poyſon and venome of ſin, and alſo the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting of death and hell is taken away, ſin is a poyſon in every cup &amp; poyſons every thing, but this peace takes all away, and doth aſſure a Believer, that whatever he meets with<g ref="char:EOLhyphen"/>al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n this World, ſhall be to his advantage, it makes proſperity to be ſafe and ſweet to them, and makes all afflictions to work for their good.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 4. Becauſe all troubles and dangers ſhall not hurt this peace, but ſhall work together to the furtherance of their everlaſting peace, for this peace is ſo far above all evils and fears that can befal ſuch as have it that in compariſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ereof they are all light and momentany, not worthy to be compared with that glory to be revealed, their great hopes ſwallow up all their fears, <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ob 19.25. For I know that my Rede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mer liveth, and that he ſhall ſtand at the latter day upon the Earth.</hi>
+                  </p>
+                  <p>Queſt. 1. But here ſome may ask a Queſtion; <hi>If Chriſt gives ſuch peace, how then comes it to paſs that many a gracious Soul meet with ſv much trouble, and that not only trouble in the World, but trouble in ſpirit, that the Soul hath loſt his peace and ſenſe of the favour of God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> This Legacie was given more eſpecially to the Ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtles that were called to ſo great a work, and were to out face all the Tyrants in the World, and endure ſo great afflictions and per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecutions, ſo that we may conceive it was alwayes conſtant and full with them; but ordinary Chriſtians have not ſo full and conſtant peace in themſelves their peace may be interrupted for a time, through ſin, or through temptations, yet
+<pb n="19" facs="tcp:94610:12"/>their peace doth hold, though they may looſe the ſenſe of it for a time, but they may be ſure of this, that peace will return again to them, God hath not forgot to be gracious.</p>
+                  <p>
+                     <hi>Anſ.</hi> 2. Their peace with God is everlaſting, and never fails; this peace is the peace of God, and in the concluſion will never fail, but the wicked mans peace will fail, and never come again, but the righteous and merciful man ſhall enter into peace, they ſhall reſt in their beds, as <hi>Iſai. 57.27.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> 3. Their diſſertions and temptations are alwayes turned to their good, and their peace return<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with advantage of greater peace and joy, <hi>their end is alwayes peace,</hi> though they ſhould and may go out of the World in the want of the ſenſe of it, yet God doth often return to the Soul at death.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe 1. Inſtruction:</hi> Hence take notice of the wonderful care and love of the Lord Jeſus to his Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ciples, to eſtabliſh their hearts againſt all the troubles, afflictions and fears that might befal them in this world, and therefore he ſaith, let not your heart be troubled, this was the farewel ſpeech of Jeſus Chriſt, <hi>my peace I leave with you,</hi> he delights in the proſperity of his people, as we may ſee <hi>Heb. 5.17, 18. Wherein God willing more abundantly to ſhew to the Heirs of promiſe the immutability of his counſel, confirmed it by an Oath, that by two immutable things, in which it was impoſſible for God to lye, you might have a ſtrong conſolation, who are fled for refuge, to lay hold upon the hope ſet before us,</hi> alſo the Lord ſaid unto the Prophet, <hi>Iſai. 40.1. Comfort ye, comfort ye my people ſaith my God, ſpeak you comfortably to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eruſalem, and cry unto her, that her warfare is accompliſhed, and that her Iniquity is pardoned;</hi> I ſpeak this to this end, becauſe there are ſome good Souls that thinks aſſurance of Gods love, and ſtrong conſolations and joy in the Holy Ghoſt is too high a favour for them, being ſuch ſinners as they are; to attain to, but let all ſuch conſider, that God give, as a God, he gives as becometh ſuch a great God as he is, he gives according to his greatneſs, and not according to your ſinfulneſs and unworthineſs; this peace is the gift of Jeſus Chriſt, and he hath purchaſed it, therefore if the Soul be never ſo unworthy, yet Jeſus Chriſt is moſt willing to beſtow this precious everlaſting peace upon you, to magnifie the exceeding riches of his grace, refuſe not the conſolations of the Almighty, diſhonour not grieve not the Lord Jeſus Chriſt by your unbelief; when Chriſt freely gives his
+<pb n="20" facs="tcp:94610:13"/>peace, it is your duty thankfully to embrace it, with all acceptation.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe 2. Conviction:</hi> We may hence be convinced of the great folly of all ſuch poor Souls as do reſt in ſuch a poor peace as the World gives, and look not after that true, moſt excellent and everlaſting peace which the Lord Jeſus Chriſt does freely offer and give; Alas how many Souls are there that reſt themſelves in that peace which the world can give, carnal peace, carnal mirth, it is a poor peace you can have from the world, you may have the worlds peace, and yet have a ſad heart and conſcience, that will tell you for all this you muſt come to Judgement, the very beſt peace the world can give, will leave the Soul in unſerable fear and diſtreſs, in fear of the wrath of God, which will come upon the Sons of diſobedience; in the midſt of laughter the heart will be ſad, all you that thus content your ſelves, do not your Conſciences often tell you of your great and many ſins, and woful ſtate to Eternity? when <hi>Paul</hi> preached of righteouſneſs, temporance and judgement to come, <hi>Felix</hi> trembled, <hi>Act. 24.25.</hi> that is a poor peace that the world giveth, that is only an outward peace but gives no inward peace and comfort to the Soul, when <hi>Betſhazzar</hi> was in his greateſt jollity, when he was drinking in his Cups, his mirth and joy was ſoon gone, and the Hand<g ref="char:EOLhyphen"/>writing upon the wall cauſed his knees to ſmite one againſt another, as <hi>Dan. 5.5, 6.</hi> in that peace that the world gives, Conſcience ſometimes will fly in the face, and tells them of thoſe things, ſins that they are guil<g ref="char:EOLhyphen"/>ty of, and that God is angry with ſinners every day, and that there is a Hell prepared for ſinners; Oh the fearful expectation of wrath, and fiery indignation that oft ſeizeth upon the heart of ſuch as are in the greateſt peace and proſperity that the world can give; but now where the peace of Chriſt is, there is no fear of Hell, for there is no condem<g ref="char:EOLhyphen"/>nation to ſuch a Soul now: Again this peace that the world doth give, how ſhort and uncertain is it? it is <hi>but a ſhort peace that the world giveth Solomon ſaith,</hi> if a ſinner live an hundred years, and his dayes be pro<g ref="char:EOLhyphen"/>longed, yet I know <hi>it ſhall go well with thoſe that fear God,</hi> yea, that is the thing to know how it ſhall be with the Soul, <hi>Haman</hi> may go home and boaſt of his greatneſs, and of the favour he was in with the King, and that the Queen alſo ſuffered none but him to come in with the King to the Banquet; but poor man! he could not foreſee that the next day he muſt be hanged upon the Gallows that he had prepared for <hi>Morde<g ref="char:EOLhyphen"/>cai;</hi> and ſo it is many times, <hi>a man in favour to day, and utterly out of favour to narrow;</hi> although the peace of the world be but a ſlighty peace,
+<pb n="21" facs="tcp:94610:13"/>yet a man is not ſure of it one day, when the world ſaies peace peace, then ſuddain deſtruction comes upon them as a Whirl wind, were this well conſidered, would any man reſt contented with that peace which the world can give; one would think they ſhould not be contented with<g ref="char:EOLhyphen"/>out that true durable peace which Chriſt gives, and not with that poor peace which the world gives, which is ſo ſhort and uncertain that laſts not, but thoſe comforts they are gone as a Whirlwind, and their places know them no more, as <hi>Solomon</hi> ſaith, and will any reſt in ſuch a peace.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 3. <hi>Tryal:</hi> This may put every one of us upon the tryal, how nearly doth it concern every Soul to conſider and examine whether his peace be the peace of Chriſt, or of the world, truely, if the peace you have be the peace the world gives, it is not worth a ruſh; we are a ſe<g ref="char:EOLhyphen"/>cure people, and live in peace, but conſider what true peace you have for your Soul to depend upon, and to this end conſider:</p>
+                  <p n="1">1. It's a certain truth, <hi>That there is no peace to the wicked ſaith my God,</hi> Iſai. 57.21. what peace can a Soul have that lives in a courſe of ſin and enmity againſt God? as <hi>Iehu</hi> ſaith to King <hi>Ioram,</hi> what peace ſo long as the Whoredoms of thy mother <hi>Iezabel</hi> and her Witchcrafts are ſo many? ſo long as the Soul goes on in the wayes of any ſin, loves it, and favours himſelf in it, it is impoſſible to have any pence with God, that infinitely hates all ſin &amp; iniquity; the wicked muſt forſake his wayes and thoughts, repent and turn to the Lord, before he can be at peace with God; but now, that Soul that can truely ſay, <hi>that be hath turned from every known ſin, &amp; he mourns for ſin, it's his grief and burthen,</hi> it is a good ſign that that Soul is at peace with God, but when we live in any way of ſin, in a way of lying, or any other known ſin, it is impoſſible that he ſhould be at peace with God.</p>
+                  <p n="2">2. This peace is the gift of Chriſt, he only can make peace between God and ſinners, <hi>1 Joh. 5.12. He that hath the Son hath life, and he that hath not the Son of God hath not life;</hi> therefore make out your in<g ref="char:EOLhyphen"/>tereſt in Jeſus Chriſt by Faith without which you can have no true peace, but if you take up comfort and expect peace from any duties of your own, or any thing of your own, yea, if you take up comfort from the mercy of God, or from the promiſe, without Chriſt in the promiſe, if you take not hold of Chriſt in the promiſe, your comfort will not hold, becauſe you lay hold of peace without true right to it, is Chriſt moſt precious and ſin moſt hateful.</p>
+                  <p n="3">
+                     <pb n="22" facs="tcp:94610:14"/> 3. Where Chriſt gives peace he gives grace; grace, mercy and peace goes together, Chriſt Jeſus never juſtifieth but he alſo ſanctifieth that Soul, as <hi>Rom. 8.1. There is now no condemnation to thoſe that are in Jeſus Chriſt,</hi> but who are they? <hi>thoſe that walk not after the fleſh but after the ſpirit,</hi> as alſo ver. 13. <hi>For if ye live after the fleſh you ſhall dye, but if through the Spirit ye mortifie the deeds of the body, ye ſhall live:</hi> Oh where is your mortifying and purging out of ſin by the Spirit? where is your delight in the wayes of Holineſs and Sanctification? <hi>1 Cor. 1.30. Jeſus Chriſt is made (not only) wiſdome and righteouſneſs, but Sanctifica<g ref="char:EOLhyphen"/>tion and Redemption;</hi> conſider what power of Grace you have received, to mortifie the deeds of the fleſh by the ſpirit, <hi>2 Cor. 7.1. Having therefore theſe promiſes, dearly beloved, let us cleanſe our ſelves from all filthineſs of the fleſh and ſpirit, perfecting Holineſs in the fear of God;</hi> If you can make it out that it is thus, then you have this peace, otherwiſe you have none of it.</p>
+                  <p n="4">4. I might add alſo, that this peace that Chriſt gives, diſpoſeth the heart to a peaceable diſpoſition, he will love to be at peace with others, as <hi>Iſai. 11.6, 7.</hi> the Kingdome of Chriſt is thus diſcribed, <hi>the Wolf alſo ſhall dwell with the Lamb, and the Leopard ſhall lye down with the Kid, and the Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f, and the young Lion, and the fatling together, and a little Childe ſhall lead them,</hi> the wiſdome that is from above is firſt pure, then peacable, and eaſie to be intreated; conſider what love there is in you to peace, do you not delight, do you not love to be at diſtance from any of the Saints of God? but love peace, ſeek peace and enſue it.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 4. <hi>Exhortation:</hi> 1. To every Soul that yet hath not this peace which Chriſt gives, breathe after it, labour for it; Oh conſider and look about you, and think whether it be not needful to get this peace which Chriſt gives; conſider theſe following particulars.</p>
+                  <p n="1">1. The poor uncertain peace that you now have in the World, that the World can give, you have heard what it is, now will you content your ſelves with the Worlds peace? can you go from day to day with this peace? will you riſe and go about your buſineſs with this peace? will you with the Drunkard ſleep upon the top of a Maſt? On awake, awake, and conſider what a peace all your worldly peace is.</p>
+                  <p n="2">2. Conſider what a dreadful Enemy you have, whiles you have only that peace that the World can give, you have God for your Enemy,
+<pb n="23" facs="tcp:94610:14"/>the great and dreadful God, that will certainly be avenged of his Ene<g ref="char:EOLhyphen"/>mies, it is a fearful thing to fall into the hands of the living God, <hi>Nahum 1.2. God is jealous, and the Lord revengeth, the Lord re<g ref="char:EOLhyphen"/>rengeth and is furious, the Lord will take vengeance on his Adverſa<g ref="char:EOLhyphen"/>ries, and he reſerveth wrath for his Enemies;</hi> Ye would tremble to ſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> into the hand of a cruel Enemy, much more into the hand of God, whom you have juſtly provoked to be your Enemy, what cannot he do, he hath prepared inſtruments of death; yea, <hi>Iſai. 30.33. Tophet is ordained of old; yea, for the King it is prepared, he hath made it deep and large, the pile thereof is fire and much wood, and the breath of the Lord like a ſtream of Brimſtone doth kindle it:</hi>
+                  </p>
+                  <p>Oh Conſider what God is, and what a ſtate and condition every ſinner is in that is an Enemy to God, and it is a dreadful thing to fall into the hands of the living God; if you were ready to fall into the hands of a cruel Nation, Oh what fear would there be! what care and endeavour to eſcape it, God is not cruel, but he is a juſt revenging God.</p>
+                  <p n="3">3. Conſider, how willing God is to be at peace, ſee how the Lord expreſſes himſelf, <hi>Iſai. 27.5. Let him take hold of my ſtrength, that he may make peace with me, and he ſhall make peace with me:</hi>
+                  </p>
+                  <p>Many a poor Soul queſtions whether God be willing, they think it is in vain for them to go about to make peace with God; why do you ſay ſo? you hear the Lord here by the Prophet ſay, if he will make peace he ſhall make peace; the queſtion therefore is not whether God be willing to be at peace with you, but whether you be willing to be at peace with him; the Lord hath given his Son to make peace, and ſends the word of reconciliation, <hi>2 Cor. 5.20. Now then we are Embaſſadors for Chriſt, as though God did beſeech you by us, we pray you in Chriſt, ſtead be reconciled to God.</hi>
+                  </p>
+                  <p>Oh what evedent Demonſtrations are there, that God is wil<g ref="char:EOLhyphen"/>ling to be at peace with poor ſinners; would God ever have gi<g ref="char:EOLhyphen"/>ven his Son, and the Son have given himſelf, if he had not been willing to be at peace, ſurely no; and alſo as was before alledged, he hath ſent Embaſſadors to beſeech and intreat you to be reconciled, our peace and all good is ready in Chriſt, but here is the miſery, men will not be at peace, Chriſt complains, <hi>you will not come to me that you
+<pb n="24" facs="tcp:94610:15"/>might have life,</hi> who is it that is now at peace with God, that was not once in the ſame eſtate with your Selves, therefore you may be at peace only delay not, but as Chriſt adviſes agree with thine adverſary quickly; while thou art in the way with him; if you delay you will dye in your ſins, therefore if ever you intend to make your peace with God at all, do it now, really, ſpeedily, and without delay.</p>
+                  <p n="4">4. <hi>Laſtly,</hi> Lay down your enmity, if Rebels will be at peace with their King, they muſt lay down their weapons, <hi>Iſai. 55.7, 8, 9. Let the Wicked forſeek his way, and the <g ref="char:V">Ʋ</g>nrighteous man his thoughts, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> him return unto the Lord, and he will have mercy upon him, and to our God, for he will abundantly pardon, for my thoughts are not your thoughts, neither are your wayes my wayes; for as the Heavens are higher then the Earth, ſo are my wayes higher then your wayes, and my thoughts then your thoughts;</hi> there is joy in Heaven at the converſion of a ſinner, if you would but come in and accept of peace, there is a way of peace yet for that ſinner that hath lived in the peace of the World all this while, if you will turn from all your ſins unto God, &amp; ſubmit to the Government of the Lord Jeſus.</p>
+                  <p n="2">2. <hi>Exhortation:</hi> To ſuch as have received this great and wonderful gift of Chriſt, this our bleſſed peace; Oh prize it highly, be exceeding thankful for it, and labour by all means to cheriſh, preſerve, and increaſe the aſſurance thereof, think what a ſingular mercy it is to be at peace with God by Jeſus Chriſt, how unſpeakable and full of glory it is; this peace is a continual peace, as <hi>Rom. 5.2. By whom alſo we have acceſs by Faith into this grace wherein we ſtand, and rejoyce in the hope of the glory of God;</hi> this I ſay, that thoſe that have this peace, ſhould labour ſo to walk, as that they may perſevere in it, and to this end conſider what the Pſalmiſt ſpeaks, <hi>Pſal. 85.8. I will hear what God the Lord will ſpeak, for he will ſpeak peace unto his people, and to his Saints, but let not them turn again to folly;</hi> have a care you break not your peace, remember <hi>Davids broken bones,</hi> beware of ſin, and ſee that you walk humbly before God; you have ſin and corruption, and you may meet with temptations, Satan is your Enemy, and he cannot abide you ſhould have this peace, therefore be watchful, and be humble, <hi>Iſai. 57.15. For thus ſaith the High and Lofty one, that inhabiteth Eter<g ref="char:EOLhyphen"/>nity, whoſe Name is Holy, I dwell in the High and Holy place, with him alſo that is of a contrite and humble ſpirit, to revive the ſpirit of the humble,
+<pb n="25" facs="tcp:94610:15"/>and to revive the heart of the contrite ones;</hi> theſe are the Souls that ſhall have peace, but take heed of an evil and unbelieving heart, in departing from the living God, take heed you doat not upon the peace of the World, and grow ſecure by it.</p>
+                  <p n="3">3. <hi>Exhortation:</hi> Make uſe of this peace, as it is intended by Chriſt, <hi>Let not your heart be troubled,</hi> Pſal. 125.1, 2. <hi>they that truſt in the Lord, ſhall be as Mount-Sion that cannot be removed, but abideth for ever, as the Moun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> are round about Jeruſalem, ſo the Lord is round about his peo<g ref="char:EOLhyphen"/>ple, from henceforth even for ever,</hi> Pſal. 27.1, 2, 3. <hi>The Lord is my light and my ſalvation, whom ſhall I fear, the Lord is the ſtrength of my life, of wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m ſhall I be afraid, when the wicked even my enemies and my foes came upon me to eat up my fleſh, they stumbled and fell, though an Hoſt ſhould encamp againſt me, my heart ſhall not fear, though War ſhould riſe againſt me, in this will I be confident,</hi> Pſal. 46.1, 2. <hi>God is ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> refuge and ſtrength, a very preſent help in trouble, therefore will not we fear, though the Earth be removed, and though the Mountains be carried into the midſt of the Sea,</hi> why ſhould ſuch a Soul fear, for any evil tidings; ye have that peace that the Gates of Hell ſhall never prevail againſt: Oh ſhew your peace by your boldneſs in God, by your glorying in tribulation; do you meet with outward loſſes, what need that trouble you when you have ſuch a God as you have? do you meet with painful afflictions? you may well bare them patiently, ſo long as the Soul enjoys Chriſts peace, do you meet with ill Neighbours, or diſquiet in your Families? all the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e are but light afflictions, not worthy to be compared to the Glory that ſhall be revealed; nay, doth Death look you in the face? you may tryumph over it, for the ſting of Death is taken away, thanks be to God that hath given us the victory, through Jeſus Chriſt our Lord, and there<g ref="char:EOLhyphen"/>fore let the peace of God guard your hearts againſt what ever you may meet withal: If you conſider the reaſons of the point.</p>
+                  <p n="1">1. The glorious excellency of this peace.</p>
+                  <p n="2">2. That it is the gift and purchaſe of Chriſt, and kept in his hand.</p>
+                  <p n="3">3. Becauſe this peace do not only ſet the Soul free from fear of wrath, but takes away the poyſon and venom of ſin, and alſo the ſting of Death and Hell is taken away.</p>
+                  <p n="4">4. Becauſe all troubles and dangers ſhall not hurt this peace, but all ſhall work together to the furtherance of their everlaſting peace; this peace will guard your hearts againſt all evil whatſoever, you have cauſe
+<pb n="26" facs="tcp:94610:16" rendition="simple:additions"/>to be quiet, therefore let nothing diſmay or diſquiet the hearts of thoſe that Chriſt hath given this peace unto, whatever you hear of in the World; we hear of many troubles and diſquiets abroad in the World, and the cauſe of God ſuffers much, we ſhould lay it to heart, but not to be troubled, diſquieted or diſmayed in the ſoareſt troubles; in a word, Faint not, <hi>for we look not at things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſent which are temporary, but at thing to come which are Eternal.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:94610:16" rendition="simple:additions"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
